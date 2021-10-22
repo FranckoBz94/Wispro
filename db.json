@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "lastname": "lastnameAdmin",
+      "email": "admin@gmail.com",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    },
+    {
+      "id": "2",
+      "name": "user",
+      "lastname": "Juan Pedro",
+      "email": "juan@gmail.com",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    },
+    {
+      "id": "3",
+      "name": "Jose",
+      "lastname": "Jose Luis",
+      "email": "jose@gmail.com",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    }
+  ]
+}
